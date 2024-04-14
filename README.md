@@ -11,8 +11,3 @@ Hi, I'm Pranav!<br>Undergraduate Student<br>Studying VLSI at IIIT-Delhi<br>
 ![](https://github-readme-stats.vercel.app/api?username=pranavkaul16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranavkaul16&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkaul16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranavkaul16&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
